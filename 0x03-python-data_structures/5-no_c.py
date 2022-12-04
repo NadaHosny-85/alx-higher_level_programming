@@ -7,4 +7,5 @@ def no_c(my_string):
             'C'):
             continue
         else:
-            modified_str.append(my_string[i])
+            modified_str += my_string[i]
+    return (modified_str)
