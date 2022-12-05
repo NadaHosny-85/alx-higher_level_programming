@@ -4,7 +4,7 @@
 #include <listobject.h>
 
 /**
- * print_python_list - function prints info
+ * print_python_list_info - function prints info
  * about a python list
  *
  * @p: pyObject
