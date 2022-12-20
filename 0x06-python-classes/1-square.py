@@ -2,6 +2,8 @@
 
 """this is class square which has
 methods such as size"""
+
+
 class Square():
     """class representing the square"""
 
