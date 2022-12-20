@@ -4,7 +4,7 @@
 
 
 class Square():
-    """class square with its attribute size which must be an integer""" 
+    """class square with its attribute size which must be an integer"""
 
     def __init__(self, size=0):
         """initializing the class"""
