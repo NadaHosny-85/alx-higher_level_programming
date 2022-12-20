@@ -17,7 +17,7 @@ class Square():
 
         return self.__size
 
-    @property_setter
+    @size.setter
     def size(self, value):
         """set a new value for size and check on its if conditions"""
 
