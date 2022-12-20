@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""this is a square class with its own attributes"""  
+"""this is a square class with its own attributes"""
 
 
 class Square():
@@ -64,6 +64,6 @@ class Square():
         for x in range(self.__size):
             for j in range(self.__position[0]):
                 print(" ", end="")
-                for k in range(0, self.__size):
-                    print("#", end="")
+            for k in range(0, self.__size):
+                print("#", end="")
             print("")
