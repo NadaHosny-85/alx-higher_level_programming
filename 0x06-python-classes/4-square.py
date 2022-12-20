@@ -11,13 +11,13 @@ class Square():
 
         self.__size = size
 
-    @retrieve_size
+    @property
     def size(self):
         """instance returns size itself"""
 
         return self.__size
 
-    @set_size
+    @property_setter
     def size(self, value):
         """set a new value for size and check on its if conditions"""
 
