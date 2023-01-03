@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""class that prevents the user from dynamically creating new instance attributes"""
+"""class that prevents the user from dynamically
+creating new instance attributes"""
 
 
 class LockedClass():
